@@ -21,7 +21,7 @@ Page is live on GitHub pages: [https://mdwag316.github.io/Module-5-Challenge/](h
 
 ## Image
 
-![Mod 5 Preview]([https://github.com/Mdwag316/Module-5-Challenge/blob/main/assets/images/1.png](https://github.com/Mdwag316/Module-5-Challenge/blob/main/assests/images/1.png))
+![Mod 5 Preview](https://github.com/Mdwag316/Module-5-Challenge/blob/main/assets/images/1.png)
 
 ## Technologies Use
 
